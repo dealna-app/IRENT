@@ -1,0 +1,17 @@
+frontend/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── HouseDetail.js
+│   │   ├── Login.js
+│   │   ├── Register.js
+│   │   └── AddHouse.js
+│   ├── components/
+│   │   └── Navbar.js
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
